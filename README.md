@@ -19,8 +19,10 @@ Output (Excel Files) </br>
   7. Aumphoe อำเภอ </br>
   8. Tamob ตำบล </br>
 </br>
-Note : Please register https://opend.data.go.th/register_api/signup.php? </br>
-For get API-Key 
+Note : </br>
+  1. Please register https://opend.data.go.th/register_api/signup.php? </br> ___For get API-Key___
+  2. Time Sleep 90-150 sec so Estimate Total time 7-10 Hr. to completed
+ 
  </br>
 </br>
 Credit : https://punsiriboonyakiat.medium.com/data-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B4%E0%B8%A7-%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A7%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-8f407167a59a
