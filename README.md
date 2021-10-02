@@ -7,8 +7,9 @@ Python package requirement </br>
 2. pandas </br>
 </br>
 Link Location 7-11 : https://www.7eleven.co.th/find-store </br>
+</br>
+Output (Excel Files) </br>
 
-Output </br>
   1. ID_711 รหัสสาขา </br>
   2. Name_Branch ชื่อสาขา </br>
   3. Address ที่อยู่สาขา </br>
